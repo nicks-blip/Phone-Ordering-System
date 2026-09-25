@@ -1,7 +1,5 @@
 # Phone-Ordering-System
-A phone ordering system developed using C# and Microsoft Visual Studio.
-
-A C# Windows Forms desktop app for calculating phone orders in Kenyan shillings (KSh).
+A phone ordering system developed using C# and Microsoft Visual Studio for calculating phone orders in Kenyan shillings (KSh).
 
 ## Features
 
